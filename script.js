@@ -1,5 +1,5 @@
 /* Ask user for his name */
-var name = prompt("What's your name?");
+var name = prompt("What is your name?");
 
 // alert(name);
 // display name in log
